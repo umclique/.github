@@ -1,1 +1,1 @@
-# .github
+# Um clique
